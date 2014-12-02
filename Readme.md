@@ -3,8 +3,8 @@ Nest Examples
 
 The Nest Initiative is one of the most widely used tools for modeling
 in computational neuroscience. Here you will find several notebooks
-that can be used as resources to understand and learn how to use Nest
-and several other python libraries together, creating a powerful
+that can be used as resources to understand and learn how to combine Nest
+with iPython notebooks, NumPy and Pandas, creating a powerful
 environment for both study and research in neuroscience.
 
 Accessing notebooks
