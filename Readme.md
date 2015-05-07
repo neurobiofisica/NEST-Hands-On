@@ -15,9 +15,9 @@ anything!), just click on the links below. If you want to run/modify
 them, clone this repository or download it
 [zipped](https://github.com/neurobiofisica/NEST-Hands-On/archive/master.zip).
 
-* [Response of single cell to current injection](http://nbviewer.ipython.org/github/neurobiofisica/NEST-Hands-On/blob/master/response_of_single_cell_to_current.ipynb)
+* [Response of single cell to current injection](http://nbviewer.ipython.org/github/neurobiofisica/NEST-Hands-On/blob/master/notebooks/response_of_single_cell_to_current.ipynb)
 
-* [Two coupled cells under Poisson noise](http://nbviewer.ipython.org/github/neurobiofisica/NEST-Hands-On/blob/master/two_cells_under_poisson_noise.ipynb)
+* [Two coupled cells under Poisson noise](http://nbviewer.ipython.org/github/neurobiofisica/NEST-Hands-On/blob/master/notebooks/two_cells_under_poisson_noise.ipynb)
 
 Wikis
 -----
