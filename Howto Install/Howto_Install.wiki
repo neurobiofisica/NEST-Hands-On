@@ -1,0 +1,6 @@
+How-To Install NEST
+====
+
+This is a step-by-step how to install Nest using several scientific
+libraries in modern Fedora systems. Please, feel free to contribute
+with updates or specific case details whenever necessary.
