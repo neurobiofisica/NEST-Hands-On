@@ -19,6 +19,13 @@ them, clone this repository or download it
 
 * [Two coupled cells under Poisson noise](http://nbviewer.ipython.org/github/neurobiofisica/NEST-Hands-On/blob/master/two_cells_under_poisson_noise.ipynb)
 
+Wikis
+-----
+
+I have also included a wiki on [how to install NEST in Fedora
+systems](https://github.com/neurobiofisica/NEST-Hands-On/blob/master/Howto%20Install/Howto_Install.wiki).
+
+
 Idea and current status
 -----
 
